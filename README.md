@@ -8,7 +8,7 @@ Welcome to the Python teaching material repository! This guide will walk you thr
 
 1. [Introduction to Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/intro.pdf)
 2. [Variables in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/variables.ipynb)
-3. [Loops in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/loops)
+3. [Loops in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/List_and_Loops.ipynb)
 
 ## Getting Started
 
