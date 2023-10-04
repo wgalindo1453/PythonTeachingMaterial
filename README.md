@@ -15,7 +15,7 @@ Welcome to the Python teaching material repository! This guide will walk you thr
 
 ## Getting Started
 
-Start with the [Introduction to Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/intro) to get a basic understanding of the language and its syntax.
+Start with the [Introduction to Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/intro.pdf) to get a basic understanding of the language and its syntax.
 
 ## Feedback
 
