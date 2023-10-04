@@ -8,7 +8,10 @@ Welcome to the Python teaching material repository! This guide will walk you thr
 
 1. [Introduction to Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/intro.pdf)
 2. [Variables in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/variables.ipynb)
-3. [Loops in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/List_and_Loops.ipynb)
+3. [Boolean and if-else](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/Boolean_and_If_Else.ipynb.ipynb)
+4. [List and Loops in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/List_and_Loops.ipynb)
+5. [Functions and Libraries in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/Functions_and_Libraries.ipynb)
+6. [Machine Learning and ChatBot ](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/machinelearning.ipynb)
 
 ## Getting Started
 
