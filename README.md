@@ -6,13 +6,13 @@ Welcome to the Python teaching material repository! This guide will walk you thr
 
 ## Table of Contents
 
-1. [Introduction to Python](https://github.com/your_username/your_repository_name/tree/main/intro)
-2. [Variables in Python](https://github.com/your_username/your_repository_name/tree/main/variables)
-3. [Loops in Python](https://github.com/your_username/your_repository_name/tree/main/loops)
+1. [Introduction to Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/intro)
+2. [Variables in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/variables)
+3. [Loops in Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/loops)
 
 ## Getting Started
 
-Start with the [Introduction to Python](https://github.com/your_username/your_repository_name/tree/main/intro) to get a basic understanding of the language and its syntax.
+Start with the [Introduction to Python](https://github.com/wgalindo1453/PythonTeachingMaterial/tree/main/intro) to get a basic understanding of the language and its syntax.
 
 ## Feedback
 
